@@ -8,6 +8,7 @@ You will find all the information you will need to work on this project in the `
 - Image that ends with `_1` is larger in size and will be used on the homepage
 - Image that ends with `_2` is smaller in size and will be used in the cart info
 - Clone the app
+//done
 
 ## Functionality To Be Added
 
